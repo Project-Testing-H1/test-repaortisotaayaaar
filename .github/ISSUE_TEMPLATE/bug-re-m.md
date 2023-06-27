@@ -1,5 +1,5 @@
 ---
-name: Bug re/m
+name: Bug re<img src=x onerror=alert(1)>/m
 about: Create a report to help us improven
 title: an
 labels: bug
